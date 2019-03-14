@@ -1,2 +1,3 @@
 # Bilarte
-Bespoke Web Development site
+Bespoke Web Development.
+Site compiled with Bootstrap Framework.
